@@ -1,7 +1,6 @@
 # iPhone
  Projeto em UML para Dio
-
- +----------------+
++----------------+
 |    iPhone      |
 +----------------+
 | - modelo       |
@@ -44,4 +43,5 @@
 | + adicionarNovaAba()|
 | + atualizarPagina() |
 +---------------------+
+
 
